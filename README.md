@@ -1,5 +1,5 @@
 
-# task-timeline
+# task-timelinejs
 
 Say goodbye to the hassle of default async behaviors in JavaScript! timed-tasks.js introduces the Timeline class, liberating you from the complexities of managing delays. Easily organize tasks with precision, breaking free from the limitations of functions like setTimeout. This module simplifies timed programming, providing a straightforward way to create sequenced actions with optional pauses. Whether you're a beginner or an experienced developer, timed-tasks.js offers a clear departure from the usual async headaches, making your code organized and easy to understand.",
   "main": "Timeline.js
