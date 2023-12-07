@@ -12,7 +12,7 @@ Say goodbye to the hassle of default async behaviors in JavaScript! timed-tasks.
 To use the `Timeline` module in your project, you can install it using npm:
 
 ```bash
-npm install your-timeline-module
+npm install task-timelinejs
 ```
 ## Breakdown
 Importing the module
