@@ -17,7 +17,7 @@ npm install task-timelinejs
 ## Breakdown
 Importing the module
 ```
-import Timeline from 'your-timeline-module';
+import Timeline from 'task-timelinejs';
 ```
 Creating a Timeline Instance
 ```
